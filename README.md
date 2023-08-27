@@ -36,7 +36,7 @@ You can customize the timer durations by modifying the following constants in th
 - LONG_BREAK_MIN: Duration of a long break in minutes.
 
 # Screenshots 📸
-![Pomodoro Timer Screenshot](tomato.png)
+![Pomodoro Timer Screenshot](tomato1.png)
 
 # Contributing 🤝
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
